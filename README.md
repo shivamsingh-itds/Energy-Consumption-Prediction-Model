@@ -1,7 +1,5 @@
 # Energy Consumption Prediction Model 🔌
 
-This project is part of my **15 Days – 15 Projects** challenge (Day 4), where I build end-to-end Data Science & Machine Learning projects to strengthen my practical skills.
-
 The goal of this project is to predict **energy consumption** based on building characteristics, occupancy, appliance usage, and environmental factors.
 
 ---
